@@ -6,8 +6,8 @@ This is a professional portfolio project that is designed to be added onto as we
 
 ## ScreenShot
 The following image shows the web application's appearance:
-
-![This application is designed to showcase student work throughout the Bootcamp program.](/assets/images/Screen%20Shot%202022-11-17%20at%209.09.33%20PM.png)
+This application is designed to showcase student work throughout the Bootcamp program.
+![](/assets/images/Screen%20Shot%202022-11-17%20at%209.09.33%20PM.png)
 
 ## Link
 This [link](https://ejc10d.github.io/challenge_2/) will take you to the deployed application.
